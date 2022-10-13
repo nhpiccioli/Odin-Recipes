@@ -9,6 +9,7 @@ body {
 
 .indexfirst, .indexsecond {
     font-size: large;
+    padding-right: 210px;
 }
 
 .recipelinks {
@@ -16,7 +17,7 @@ body {
     list-style-position: inside;
    text-align: left;
    font-weight: bold;
-   margin-right: 700px;
-   margin-left: 120px;
+   margin-right: 775px;
+   margin-left: 60px;
    color: black;
 }
