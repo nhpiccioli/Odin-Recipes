@@ -22,7 +22,7 @@
    color: black;
 }
 
-.omelettebody {
+.omelettebody, .shrimpbody, .lasagnabody {
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
     color: white;
