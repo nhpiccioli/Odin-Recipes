@@ -1,6 +1,6 @@
 
 
-body {
+.indexbody {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     color: white;
@@ -21,3 +21,11 @@ body {
    margin-left: 60px;
    color: black;
 }
+
+.omelettebody {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    color: white;
+    background-image: url(https://cdn.pixabay.com/photo/2016/10/22/01/54/wood-1759566_1280.jpg);
+}
+
