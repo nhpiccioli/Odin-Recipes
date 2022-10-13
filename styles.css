@@ -1,9 +1,22 @@
+
+
 body {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
+    color: white;
+    background-image: url(https://img.freepik.com/free-photo/vegetables-set-left-black-slate_1220-685.jpg?w=1380&t=st=1665679827~exp=1665680427~hmac=a453fc13d6450f3751993f905cbc4c38f3996b8d10650f11134ede1ebe016600);
 }
 
-ul {
+.indexfirst, .indexsecond {
+    font-size: large;
+}
+
+.recipelinks {
+    background-color: whitesmoke;
     list-style-position: inside;
    text-align: left;
+   font-weight: bold;
+   margin-right: 700px;
+   margin-left: 120px;
+   color: black;
 }
